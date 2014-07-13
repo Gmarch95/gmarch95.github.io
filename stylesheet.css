@@ -1,7 +1,10 @@
 .sexy-profile{
-    margin-top: 100px;
+    margin-top: 40px;
     padding: 10px;
     position: relative;
     width: 100%;
     height: 100%;
+}
+.bigger-badder-me{
+    height: 200px;
 }
