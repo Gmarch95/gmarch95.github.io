@@ -15,11 +15,6 @@
     margin-top: 100px;
     position: relative;
 }
-<<<<<<< HEAD
 div div div p:first-child{
     margin-top: 50px;
-=======
-div div div > div:first-child{
-    margin-top: 100px;
->>>>>>> 66f781d945750d45e37115f1c1e1726e99811206
 }
