@@ -15,6 +15,6 @@
     margin-top: 100px;
     position: relative;
 }
-div div div > p:first-child{
+div div div > div:first-child{
     margin-top: 100px;
 }
