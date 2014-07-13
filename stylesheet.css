@@ -1,4 +1,4 @@
-.sexy-profile{
+#sexy-profile{
     margin-top: 30px;
     margin-left: 30;
     margin-bottom: 30px;
@@ -10,4 +10,8 @@
 }
 .bigger-badder-me{
     height:600px;
+}
+.column-centerize{
+    margin-top: 50%;
+    position: relative;
 }
