@@ -15,3 +15,6 @@
     margin-top: 100px;
     position: relative;
 }
+div div div p:first-child{
+    margin-top: 50px;
+}
