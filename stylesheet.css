@@ -1,6 +1,3 @@
-html{
-    background-color: blue;
-}
 #sexy-profile{
     margin-top: 30px;
     margin-left: 30;
@@ -13,6 +10,9 @@ html{
 }
 .bigger-badder-me{
     height:600px;
+}
+.average-bang{
+    height: 300px;
 }
 .column-centerize{
     margin-top: 100px;
